@@ -10,7 +10,7 @@ const About = () => {
             <img className="absolute mt-6 left-[35%] " src="/assets/barber.png"></img>
            </div>
            <div className="absolute top-[70%] left-[50%] -translate-x-1/2 -translate-y-1/2">
-            <p className=" text-lg text-nowrap text-center leading-none">Barber is a person whose occupation is mainly to cut dress groom <br/> style and shave men's and boys' hair. A barber's place of work is <br/> known as a "barbershop" or a "barber's". Barbershops are also places <br/> of social interaction and public discourse. In some instances,<br/> barbershops are also public forums.</p>
+            <p className=" text-lg text-nowrap text-center leading-none">Barber is a person whose occupation is mainly to cut dress groom <br/> style and shave men&apos;s and boys&apos; hair. A barber &apos;s place of work is <br/> known as a &quot; barbershop &quot; or a &quot;barber&apos;s&quot;. Barbershops are also places <br/> of social interaction and public discourse. In some instances,<br/> barbershops are also public forums.</p>
            </div>
            <button className="absolute top-[85%] bg-[#D9A536] px-14 py-3 rounded-md mt-5 left-[50%] -translate-x-1/2 -translate-y-1/2">MORE ABOUT US</button>
         </div>

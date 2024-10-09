@@ -14,8 +14,8 @@ const Testimonial = () => {
             </div>
             <div className="h-[70%] p-10">
                 <div className="flex gap-10 justify-center">
-                    <Testcard image={'/assets/testimg1.png'} desc="“Just came back to home and should say that it is definitely a great experience. I would recommend it for everyone who needs a bike for a short term or want to t...”" name="Robert Fox" position="Writer"/>
-                    <Testcard image={'/assets/testimg2.png'} desc="“Amazing service! Claire helped me to reduce the shipping price a little and shipped it immediately after purchasing. The amethyst cave I got is a beauty and I c...”" name="Marvin Mckinney" position="Businessman"/>
+                    <Testcard image={'/assets/testimg1.png'} desc="&quot;Just came back to home and should say that it is definitely a great experience. I would recommend it for everyone who needs a bike for a short term or want to t...&quot;" name="Robert Fox" position="Writer"/>
+                    <Testcard image={'/assets/testimg2.png'} desc="&quot;Amazing service! Claire helped me to reduce the shipping price a little and shipped it immediately after purchasing. The amethyst cave I got is a beauty and I c...&quot;" name="Marvin Mckinney" position="Businessman"/>
           
                  </div>   
             </div>

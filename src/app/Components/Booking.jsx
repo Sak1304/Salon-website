@@ -8,7 +8,7 @@ const Booking = () => {
             <h1 className="text-white text-center text-6xl font-semibold">Making You Look Good<br/> Is In Our Heritage.</h1>
 
             <p className="text-3xl text-center text-white">Barber is a person whose occupation is mainly to cut dress groome style <br/>
-            and shave men’s and boy’s hair</p>
+            and shave men&apos;s and boy&apos;s hair</p>
 
             <button className="px-3 py-3 bg-[#D9A536] text-white">MAKE AN APPOINTMENT</button>
         </div>
